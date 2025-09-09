@@ -1,0 +1,40 @@
+.custom-range::-webkit-slider-thumb {
+  background-color: #32e7b1; /* Change to your desired color */
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.custom-range::-moz-range-thumb {
+  background-color: #32e7b1; /* Change to your desired color */
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.custom-range::-ms-thumb {
+  background-color: #32e7b1; /* Change to your desired color */
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.dark-bg-cal {
+  background-color: #13111a; 
+}
+.input:focus, textarea:focus{
+  border: none !important;
+}
+
+.glass-card-dark {
+  background: rgba(37, 37, 37, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  
+}

@@ -1,0 +1,14 @@
+.navbar-shadow {
+  box-shadow: 0 6px 24px rgba(255, 255, 255, 0.15);
+  transition: box-shadow 0.3s ease;
+}
+
+.brand-logo-img {
+  max-width: 170px;
+}
+
+.nav-action-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

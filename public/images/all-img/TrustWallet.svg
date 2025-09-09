@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TrustWallet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Poppins-ExtraBold, Poppins;
+        font-size: 40px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="15.88" y1="50" x2="45.88" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3b0c4"/>
+      <stop offset="1" stop-color="#8591a6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-195.94" y1="95.35" x2="-175.23" y2="23.12" gradientTransform="translate(242.4 99.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebf1fa"/>
+      <stop offset=".61" stop-color="#ccd5e3"/>
+      <stop offset="1" stop-color="#ccd5e3"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-3" d="M15.88,26.11l30-9.71v67.2c-21.43-8.96-30-26.14-30-35.84v-21.65Z"/>
+    <path class="cls-1" d="M75.88,26.11l-30-9.71v67.2c21.43-8.96,30-26.14,30-35.84v-21.65Z"/>
+  </g>
+  <text class="cls-2" transform="translate(87.9 64.8)"><tspan x="0" y="0">TrustWallet</tspan></text>
+</svg>

@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+  .fugu--content-section {
+    padding-top: 0 !important;
+  }
+
+  .roadmap-area {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  .card {
+    margin-bottom: 1rem !important;
+  }
+}
+
+
+
+.glass-card {
+  background: rgb(255, 253, 253);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.inner-glass-card {
+  background: rgba(238, 238, 238, 0.527);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(0, 255, 170, 0.4);
+}
+
+.icon i {
+  transition: transform 0.3s ease;
+}
+
+.icon i:hover {
+  transform: scale(1.1);
+}
+
+
